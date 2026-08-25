@@ -120,10 +120,11 @@ https://huggingface.co/lmsys/vicuna-7b-v1.5 ->  tools/transformers/vicuna-7b-v1.
 ## for simulated text representation
 # details: https://github.com/X-LANCE/SLAM-LLM/blob/main/examples/asr_librispeech/README.md
 https://drive.google.com/file/d/1cLNuMR05oXxKj8M_Z3yAZ5JHJ06ybIHp/view?usp=sharing  ->  tools/transformers/WalmL2VicunaV1.5_model.pt
-```
-
 ## for simulated audio representation
 # details: [https://github.com/FunAudioLLM/CosyVoice](https://github.com/QwenAudio/CosyVoice)
+```
+
+
 
 ```
 
