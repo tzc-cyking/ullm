@@ -25,16 +25,16 @@ The overall architecture:
 Multimodal emotion recognition (MER) under missing modalities remains challenging because unavailable observations must be reconstructed without distorting the underlying affective semantics. Existing generative approaches often treat synthetic representations as faithful substitutes for real modalities, overlooking the semantic drift and representation mismatch introduced during generation. To address these issues, we propose ULLM-MER, an unified large language model (LLM)-assisted framework for audio--text emotion recognition under complete and missing modality conditions. ULLM-MER performs bidirectional modality simulation using frozen pretrained generative models and introduces a dual-level alignment to reduce the discrepancy between real and simulated representations. It further develops a multi-level modality-aware feature fusion mechanism that combines the designed adaptive angular-calibrated directional cross-attention module with a hierarchical multi-view aggregation. Experiments on CMU-MOSI and CMU-MOSEI demonstrate that ULLM-MER achieves competitive performance under complete observations and the best average performance across the evaluated missing-rate settings.
 
 
-
-## 🚀 Weights & Representation
-
+## 🚀 Representation
+<!-- ## 🚀 Weights & Representation -->
+<!-- 
 | Model | Complete Modality MSE | Modality Missing(missing rate 0.7) ACC2  | Link                                                         |
 | :---- | --------------------- | -------------------------  | ------------------------------------------------------------ |
 | ULLM | 0.517                | 73.5%                    |  [[Google Drive]](https://drive.google.com/file/d/1qDM47_lG0B2eXKVJ8nrx7iOFrd-bD9hC/view?usp=sharing) |
 
 
 Representation:
-[Baidu Drive](https://pan.baidu.com/s/1iHbWPZps-uidqRflAnKnFw?pwd=cqdb)
+[Baidu Drive](https://pan.baidu.com/s/1iHbWPZps-uidqRflAnKnFw?pwd=cqdb) -->
 ```
 https://pan.baidu.com/s/1iHbWPZps-uidqRflAnKnFw?pwd=cqdb -> 
 features_mosei/manet_FRA 
