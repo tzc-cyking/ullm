@@ -155,17 +155,5 @@ Thanks to open source repository [MERTools](https://github.com/zeroQiaoba/MERToo
 
 <!-- 
 
-## :newspaper:Citation
 
-If you find our work useful in your research, please consider citing: 
-
-```
-@inproceedings{weng2025enhancing,
-  title={Enhancing Multimodal Sentiment Analysis for Missing Modality through Self-Distillation and Unified Modality Cross-Attention},
-  author={Weng, Yuzhe and Wang, Haotian and Gao, Tian and Li, Kewei and Niu, Shutong and Du, Jun},
-  booktitle={ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
-  pages={1--5},
-  year={2025},
-  organization={IEEE}
-} -->
 ```
