@@ -68,8 +68,6 @@ pip install -r requirements.txt
 If you wish to run inference to evaluate the model's performance, please download the model weights and modality representations into their respective directories. The directory structure should be as follows:
 
 ```
-
-
 └── dataset
     ├── datasets_label
     │   └── cmumosei-process
