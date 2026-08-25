@@ -122,6 +122,11 @@ https://huggingface.co/lmsys/vicuna-7b-v1.5 ->  tools/transformers/vicuna-7b-v1.
 https://drive.google.com/file/d/1cLNuMR05oXxKj8M_Z3yAZ5JHJ06ybIHp/view?usp=sharing  ->  tools/transformers/WalmL2VicunaV1.5_model.pt
 ```
 
+## for simulated audio representation
+# details: [https://github.com/FunAudioLLM/CosyVoice](https://github.com/QwenAudio/CosyVoice)
+
+```
+
 You can refer to the run.sh file in each directory of `./features_extraction` to extract each representation.
 
 
