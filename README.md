@@ -1,7 +1,6 @@
-# Enhancing Multimodal Sentiment Analysis for Missing Modality through Self-Distillation and Unified Modality Cross-Attention
+# LLM-Assisted Audio--Text Emotion Recognition with Multi-level Modality-aware Feature Fusion under Complete and Missing Modalities
 
-
- Enhancing Multimodal Sentiment Analysis for Missing Modality through Self-Distillation and Unified Modality Cross-Attention
+ LLM-Assisted Audio--Text Emotion Recognition with Multi-level Modality-aware Feature Fusion under Complete and Missing Modalities
 
 Authors: Chenyu Jin, Chenglong Wang, Jun Wang, Honghui Xu*, Shiqing Zhang*, Senior Member IEEE, Jun Yu, and  Qi Tian, Fellow IEEE
 
